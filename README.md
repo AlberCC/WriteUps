@@ -6,4 +6,4 @@ Colección de writeups de laboratorios de pentesting.
 
 | Máquina | Dificultad | Writeup |
 | --- | --- | --- |
-| Trust | Fácil | [Trust.md](DockerLabs/Trust.md) |
+| Trust | Muy fácil | [Trust.md](DockerLabs/Trust.md) |
